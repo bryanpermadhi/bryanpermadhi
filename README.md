@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bryan Permadhi</h1>
-<h3 align="center">An aspiring front-end Web Developer</h3>
+<h3 align="center">An aspiring Full-Stack Web Developer</h3>
 
 - 📫 How to reach me **bryanp4502@gmail.com**
 
